@@ -6,3 +6,6 @@ Założenia : Quiz
  - mozliwosc grania na wiecej niz 1go gracza( odpowiedzi zaznaczane na buttonach w oknie glownym)
  - przejścia pomiędzy pytania
  - ewentualna losowosc pytań
+
+-Prechowywanie pytań w lokalnej bazie danych
+-
